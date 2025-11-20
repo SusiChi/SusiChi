@@ -1,7 +1,7 @@
 - Ello , I’m Susi
 - I’m interested in Arts, Coding, and any other kind of media.
 - I’m currently learning Different programming langauges like C#, HTML and CSS, Javascript, Java, and more!
-- Pronouns: She/Her, I don't mind using They/Them either.
+- Pronouns: She/Her.
 
 <!---
 SusiChi/SusiChi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
